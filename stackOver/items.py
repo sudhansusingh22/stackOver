@@ -9,7 +9,13 @@ from scrapy.item import Item, Field
 
 
 class StackItem(Item):
+    # Title of question
     title = Field()
+    # Url of question
     url = Field()
+    # Usename, who has posted it
+    userName = Field()
+    #User url
+    userUrl = Field()
 
     pass
