@@ -15,3 +15,4 @@ Sample output: </br></br>
 'userName'  : u'jros',</br>
 'userUrl'   : u'/users/5095731/jros' </br>
 
+### Ref : https://realpython.com/blog/python/web-scraping-with-scrapy-and-mongodb/
